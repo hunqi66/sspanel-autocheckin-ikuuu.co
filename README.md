@@ -41,7 +41,7 @@ bash /path/to/ssp-autocheckin.sh
 [2020-10-30 11:20:26] "签到结果推送成功"
 ```
 
-如下：
+如下： 
 
 ```bash
 24 10 * * * bash /path/to/ssp-autocheckin.sh >> /path/to/ssp-autocheckin.log 2>&1
