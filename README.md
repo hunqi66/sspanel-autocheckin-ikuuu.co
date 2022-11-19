@@ -7,7 +7,7 @@
 **原作者仓库https://github.com/isecret/sspanel-autocheckin**
 
 ## 使用方法
-
+ 
 ### 方式一：Github Actions（推荐）
 
 Fork 该仓库，进入仓库后点击 `Settings`，右侧栏点击 `Secrets`，点击 `New secret`。分别添加 `DOMAIN`、`USERNAME` 和 `PASSWD` 的值，对应为你的 `域名`、`用户名` 和 `密码`，如果你想接受 Server 酱微信通知，请配置 `PUSH_KEY` 的值。
